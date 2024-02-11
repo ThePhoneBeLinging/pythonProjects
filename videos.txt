@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Tl9cm0gi4S9sItsO0iwozWzQk9o",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "DK",
+  "pageInfo": {
+    "totalResults": 232,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_fcsbMNzDxUKjN786XNVObYjio4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n-BKnpqgZak"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-08T09:00:36Z",
+        "channelId": "UCIoxBbxCTaoYcwsSowTIsVA",
+        "title": "Day 40 - Opening A Case Everyday Until I Get A Gold #40",
+        "description": "Hope you enjoyed the video  . Make sure to leave a like and subscribe  . It will help me be able to make more videos like this in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-BKnpqgZak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-BKnpqgZak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-BKnpqgZak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HartwichCS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-08T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJXlcsSbuXxaKd4Ot3UZkUtoomM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CybdrfunHSs"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-08T09:00:09Z",
+        "channelId": "UCIoxBbxCTaoYcwsSowTIsVA",
+        "title": "Kilowatt Case Opening! (New CS2 Case)",
+        "description": "I decided to open a few of the new Kilowatt Cases and this happened... Hope you enjoyed the video  . Make sure to leave a like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CybdrfunHSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CybdrfunHSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CybdrfunHSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HartwichCS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-08T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bR8EUYmtYZBrwM5GrQNeh45OVio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hDkt8sb2f9U"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-07T09:00:36Z",
+        "channelId": "UCIoxBbxCTaoYcwsSowTIsVA",
+        "title": "Day 39 - Opening A Case Everyday Until I Get A Gold #39",
+        "description": "Hope you enjoyed the video  . Make sure to leave a like and subscribe  . It will help me be able to make more videos like this in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDkt8sb2f9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDkt8sb2f9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDkt8sb2f9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HartwichCS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-07T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GOlfz5jrWlSxZU7fziOhu-ub4wE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J1sfsxUDaVM"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-07T02:34:03Z",
+        "channelId": "UCIoxBbxCTaoYcwsSowTIsVA",
+        "title": "Finally A New CS2 Update! (New Case, Capsule and more)",
+        "description": "We finally got a new CS2 update, with a lot of content! This is what we got. Hope you enjoyed the video  . Make sure to leave a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J1sfsxUDaVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J1sfsxUDaVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J1sfsxUDaVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HartwichCS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-07T02:34:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KESOQxz8DmfAUOMDJLZbeJsKYmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jI9Xig1SZsM"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-06T09:00:29Z",
+        "channelId": "UCIoxBbxCTaoYcwsSowTIsVA",
+        "title": "Day 38 - Opening A Case Everyday Until I Get A Gold #38",
+        "description": "Hope you enjoyed the video  . Make sure to leave a like and subscribe  . It will help me be able to make more videos like this in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jI9Xig1SZsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jI9Xig1SZsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jI9Xig1SZsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HartwichCS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-06T09:00:29Z"
+      }
+    }
+  ]
+}
